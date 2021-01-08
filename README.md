@@ -16,21 +16,21 @@ To train a mahcine learning model for predicting house prices using various attr
 
 ## File Descriptions <a name="files"></a>
 
-* `Housing.ipynb` : The Jupyter notebook that includes all explanations, code and visualizations
-* `Housing_Profile_Report.html` : Profiling report of train data set
-* Data: `housing.csv` : Dataset
+* `Housing.ipynb` : The Jupyter notebook that includes data exploration, code and visualizations
+* `Housing_Profile_Report.html` : Profiling report of data set
+* `housing.csv` : csv file containing house features
 * Visualizations: Includes all plots generated from the training data
    * `Correlation_Matrix.png` : Correlation matrix
-   * `Feature_Importance.png` : Feature importance of the trained model
-   * `Outlier_Detection.png` : Outliers detected in features
    * `Pairplot.png` : Seaborn Pairplot
-
+   * `Outlier_Detection.png` : Outliers detected in features
+   * `Feature_Importance.png` : Feature importance of the trained model
+   
 ## Screenshots
 
 ***Screenshot 1: Correlation matrix to understand how various features relate with each other***
 ![Screenshot 1](https://github.com/rahul385/House-Price-Prediction/blob/master/Visualizations/Correlation_Matrix.png)
 
-***Screenshot 2: Importance of features after running Machine Learning model***
+***Screenshot 2: Feature importance of Machine Learning model***
 ![Screenshot 2](https://github.com/rahul385/House-Price-Prediction/blob/master/Visualizations/Feature_Importance.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
