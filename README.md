@@ -1,10 +1,11 @@
 # House-Price-Prediction
 
 ### Table of Contents
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Blog Post](https://rahulgupta1.medium.com/predicting-house-prices-using-machine-learning-9f64a6c248ab)
+2. [Installation](#installation)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
