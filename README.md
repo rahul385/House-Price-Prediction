@@ -1,5 +1,7 @@
 # House-Price-Prediction
 
+<p align = 'center'><img src = 'logo.jpg', height=300, width =500></p>
+
 ### Table of Contents
 1. [Blog Post](https://rahulgupta1.medium.com/predicting-house-prices-using-machine-learning-9f64a6c248ab)
 2. [Installation](#installation)
