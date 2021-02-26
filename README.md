@@ -9,7 +9,9 @@
 
 ## Installation <a name="installation"></a>
 
-There are no additonal libraries required to run the code beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/House-Price-Prediction/blob/master/requirements.txt).
+
+To install Run: `pip install -r requirements.txt`
 
 ## Project Motivation<a name="motivation"></a>
 
