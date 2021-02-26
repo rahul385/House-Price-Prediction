@@ -1,0 +1,7 @@
+pandas
+numpy
+pandas_profiling
+matplotlib
+seaborn
+sklearn
+xgboost
